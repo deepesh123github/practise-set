@@ -13,3 +13,12 @@ for(int j =1 ; j<=i ; j++) {
     }
     return 0;
 }
+/*
+output
+enter a number =5
+ * 
+ *  * 
+ *  *  *        
+ *  *  *  *     
+ *  *  *  *  * 
+*/
